@@ -1,0 +1,7 @@
+D:\Mphasis-B2\Day-4\Sum_and_Average_10_array\Sum_and_Average_10_array\bin\Debug\Sum_and_Average_10_array.exe.config
+D:\Mphasis-B2\Day-4\Sum_and_Average_10_array\Sum_and_Average_10_array\bin\Debug\Sum_and_Average_10_array.exe
+D:\Mphasis-B2\Day-4\Sum_and_Average_10_array\Sum_and_Average_10_array\bin\Debug\Sum_and_Average_10_array.pdb
+D:\Mphasis-B2\Day-4\Sum_and_Average_10_array\Sum_and_Average_10_array\obj\Debug\Sum_and_Average_10_array.csproj.AssemblyReference.cache
+D:\Mphasis-B2\Day-4\Sum_and_Average_10_array\Sum_and_Average_10_array\obj\Debug\Sum_and_Average_10_array.csproj.CoreCompileInputs.cache
+D:\Mphasis-B2\Day-4\Sum_and_Average_10_array\Sum_and_Average_10_array\obj\Debug\Sum_and_Average_10_array.exe
+D:\Mphasis-B2\Day-4\Sum_and_Average_10_array\Sum_and_Average_10_array\obj\Debug\Sum_and_Average_10_array.pdb
